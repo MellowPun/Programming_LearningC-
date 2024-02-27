@@ -1,0 +1,16 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\bin\Debug\Classes_oef.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\bin\Debug\Classes_oef.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\bin\Debug\Classes_oef.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\obj\Debug\Classes_oef.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\obj\Debug\Classes_oef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\obj\Debug\Classes_oef.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\obj\Debug\Classes_oef.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Classes_oef\obj\Debug\Classes_oef.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\obj\Debug\Classes_oef.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\obj\Debug\Classes_oef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\obj\Debug\Classes_oef.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\obj\Debug\Classes_oef.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\obj\Debug\Classes_oef.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\bin\Debug\Classes_oef.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\bin\Debug\Classes_oef.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Oefeningen_P3\Classes_oef\bin\Debug\Classes_oef.pdb

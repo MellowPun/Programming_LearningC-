@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\bin\Debug\OEF_IF_CONDITIONS.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\bin\Debug\OEF_IF_CONDITIONS.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\bin\Debug\OEF_IF_CONDITIONS.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\obj\Debug\OEF_IF_CONDITIONS.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\obj\Debug\OEF_IF_CONDITIONS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\obj\Debug\OEF_IF_CONDITIONS.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\obj\Debug\OEF_IF_CONDITIONS.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_IF_CONDITIONS\obj\Debug\OEF_IF_CONDITIONS.pdb

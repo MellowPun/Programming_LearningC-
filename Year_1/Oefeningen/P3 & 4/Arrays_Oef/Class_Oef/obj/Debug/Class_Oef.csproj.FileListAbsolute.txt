@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\bin\Debug\Class_Oef.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\bin\Debug\Class_Oef.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\bin\Debug\Class_Oef.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\obj\Debug\Class_Oef.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\obj\Debug\Class_Oef.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\obj\Debug\Class_Oef.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\Class_Oef\obj\Debug\Class_Oef.pdb

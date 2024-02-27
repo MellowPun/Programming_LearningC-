@@ -1,0 +1,1 @@
+[{"Type":"Tiger","AmountOfFeet":4},{"Type":"Lion","AmountOfFeet":4},{"Type":"Spider","AmountOfFeet":8},{"Type":"Kangorou","AmountOfFeet":2},{"Type":"Nemo","AmountOfFeet":0}]

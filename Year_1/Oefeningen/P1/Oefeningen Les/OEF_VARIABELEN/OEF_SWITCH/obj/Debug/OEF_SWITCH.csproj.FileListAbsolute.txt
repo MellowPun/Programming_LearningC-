@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\obj\Debug\OEF_SWITCH.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\obj\Debug\OEF_SWITCH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\obj\Debug\OEF_SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\bin\Debug\OEF_SWITCH.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\bin\Debug\OEF_SWITCH.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\bin\Debug\OEF_SWITCH.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\obj\Debug\OEF_SWITCH.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_SWITCH\obj\Debug\OEF_SWITCH.pdb

@@ -1,0 +1,77 @@
+internal enum CardType
+    {
+        Clover, 
+        Heart, 
+        Diamond, 
+        Spade
+    }
+
+    internal enum CardSymbol
+    {
+        None, 
+        Ace, 
+        Jack, 
+        Queen, 
+        King
+    }
+
+    internal class Card
+    {
+        protected CardType mType;
+        protected CardSymbol mSymbol;
+        protected int mNumericValue;
+
+        public Card(CardType type, int numericValue)
+        {
+            mType = type;
+            mNumericValue = numericValue;
+
+            switch (mNumericValue)
+            {
+                case 1:
+                    mSymbol = CardSymbol.Ace;
+                    break;
+
+                case 11:
+                    mSymbol = CardSymbol.Jack;
+                    break;
+
+                case 12:
+                    mSymbol = CardSymbol.Queen;
+                    break;
+
+                case 13:
+                    mSymbol = CardSymbol.King;
+                    break;
+            }
+        }
+
+        public CardType Type
+        {
+            get { return mType; }
+            //set { mType = value; }  
+        }
+
+        public CardSymbol Symbol
+        {
+            get { return mSymbol; }
+            //set { mSymbol = value; }
+        }
+
+        public int NumericValue
+        {
+            get { return mNumericValue;  }
+            //set { mNumericValue = value; }
+        }
+
+        public override string ToString()
+        {
+            // Card is ace of spades
+            string currentValue = NumericValue.ToString();
+            if (Symbol != CardSymbol.None)
+            {
+                currentValue = Symbol.ToString();
+            }
+            return String.Format("Card is {0} of {1}", currentValue, Type);
+        }
+    }

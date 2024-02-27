@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\bin\Debug\OEF_OMO.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\bin\Debug\OEF_OMO.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\bin\Debug\OEF_OMO.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\obj\Debug\OEF_OMO.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\obj\Debug\OEF_OMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\obj\Debug\OEF_OMO.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\obj\Debug\OEF_OMO.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_OMO\obj\Debug\OEF_OMO.pdb

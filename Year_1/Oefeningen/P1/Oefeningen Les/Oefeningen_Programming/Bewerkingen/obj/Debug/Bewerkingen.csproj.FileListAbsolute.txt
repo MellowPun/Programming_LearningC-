@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\bin\Debug\Bewerkingen.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\bin\Debug\Bewerkingen.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\bin\Debug\Bewerkingen.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\obj\Debug\Bewerkingen.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\obj\Debug\Bewerkingen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\obj\Debug\Bewerkingen.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\obj\Debug\Bewerkingen.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\Bewerkingen\obj\Debug\Bewerkingen.pdb

@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\bin\Debug\Examenproef Menu.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\bin\Debug\Examenproef Menu.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\bin\Debug\Examenproef Menu.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\obj\Debug\Examenproef Menu.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\obj\Debug\Examenproef Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\obj\Debug\Examenproef Menu.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\obj\Debug\Examenproef Menu.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\ExamenProef\Examenproef Menu\obj\Debug\Examenproef Menu.pdb

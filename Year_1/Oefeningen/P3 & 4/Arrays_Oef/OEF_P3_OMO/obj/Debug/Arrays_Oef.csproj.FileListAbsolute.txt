@@ -1,0 +1,15 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\obj\Debug\Arrays_Oef.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\obj\Debug\Arrays_Oef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\obj\Debug\Arrays_Oef.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\obj\Debug\OEF_P3_OMO.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Arrays_Oef\OEF_P3_OMO\obj\Debug\OEF_P3_OMO.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\bin\Debug\OEF_P3_OMO.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\obj\Debug\Arrays_Oef.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\obj\Debug\Arrays_Oef.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\obj\Debug\OEF_P3_OMO.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\OEF_P3_OMO\obj\Debug\OEF_P3_OMO.pdb

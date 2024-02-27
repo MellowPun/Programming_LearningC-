@@ -1,0 +1,24 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\bin\Debug\TypeCasten.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\TypeCasten\obj\Debug\TypeCasten.pdb

@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\bin\Debug\OEF_LOOPS.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\bin\Debug\OEF_LOOPS.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\bin\Debug\OEF_LOOPS.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\obj\Debug\OEF_LOOPS.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\obj\Debug\OEF_LOOPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\obj\Debug\OEF_LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\obj\Debug\OEF_LOOPS.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_LOOPS\obj\Debug\OEF_LOOPS.pdb

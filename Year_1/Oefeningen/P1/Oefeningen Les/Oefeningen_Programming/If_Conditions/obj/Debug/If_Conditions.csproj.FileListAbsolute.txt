@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\bin\Debug\If_Conditions.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\bin\Debug\If_Conditions.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\bin\Debug\If_Conditions.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\obj\Debug\If_Conditions.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\obj\Debug\If_Conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\obj\Debug\If_Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\obj\Debug\If_Conditions.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oefeningen_Programming\If_Conditions\obj\Debug\If_Conditions.pdb

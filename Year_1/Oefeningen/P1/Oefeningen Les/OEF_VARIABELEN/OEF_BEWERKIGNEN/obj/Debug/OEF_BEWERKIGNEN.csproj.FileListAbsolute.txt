@@ -1,0 +1,15 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\bin\Debug\OEF_BEWERKIGNEN.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P1\Oefeningen Les\OEF_VARIABELEN\OEF_BEWERKIGNEN\obj\Debug\OEF_BEWERKIGNEN.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenProef", "ExamenProef\ExamenProef.csproj", "{F79D4682-D3F6-45CE-B243-B5EBC0EEA25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examenproef Menu", "Examenproef Menu\Examenproef Menu.csproj", "{13DA7072-02A9-4502-8E1C-9C77977647F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79D4682-D3F6-45CE-B243-B5EBC0EEA25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79D4682-D3F6-45CE-B243-B5EBC0EEA25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79D4682-D3F6-45CE-B243-B5EBC0EEA25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79D4682-D3F6-45CE-B243-B5EBC0EEA25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DA7072-02A9-4502-8E1C-9C77977647F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DA7072-02A9-4502-8E1C-9C77977647F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DA7072-02A9-4502-8E1C-9C77977647F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DA7072-02A9-4502-8E1C-9C77977647F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC4FD2D-C712-4E45-96BF-BA75E336F0AD}
+	EndGlobalSection
+EndGlobal

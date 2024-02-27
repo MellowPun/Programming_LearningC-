@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\bin\Debug\List&Enum_OEF.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\bin\Debug\List&Enum_OEF.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\bin\Debug\List&Enum_OEF.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\obj\Debug\List&Enum_OEF.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\obj\Debug\List&Enum_OEF.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\obj\Debug\List&Enum_OEF.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Arrays_Oef\List&Enum_OEF\obj\Debug\List&Enum_OEF.pdb

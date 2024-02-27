@@ -1,0 +1,62 @@
+internal class Program
+    {
+        static Random randomGenerator = new Random();
+
+        static void Main(string[] args)
+        {
+            Stack<Card> cards = CreateCardDeck();
+
+            int count = cards.Count;
+
+            Card currentCard = null;
+            for (int i = 0; i < count; i++)
+            {
+                currentCard = cards.Pop();
+                Console.WriteLine(currentCard);
+            }
+
+            EndApplication();
+        }
+
+
+        
+
+        static Stack<Card> CreateCardDeck()
+        {
+            List<Card> myCards = new List<Card>();
+
+            for (int j = 0; j < 4; j++)
+            {
+                CardType cardType = (CardType)j;
+
+                for (int i = 1; i < 14; i++)
+                {
+                    myCards.Add(new Card(cardType, i));
+
+                }
+            }
+
+            return ShuffleCardDeck(myCards);
+        }
+
+        static Stack<Card> ShuffleCardDeck(List<Card> inputDeck)
+        {
+            Stack<Card> randomizedDeck = new Stack<Card>();
+
+            Card drawnCard = null;
+            while (inputDeck.Count > 0)
+            {
+                int randomIndex = randomGenerator.Next(0, inputDeck.Count);
+                drawnCard = inputDeck[randomIndex];
+                inputDeck.Remove(drawnCard);
+                randomizedDeck.Push(drawnCard);
+            }
+
+            return randomizedDeck;
+        }
+
+        static void EndApplication()
+        {
+            Console.WriteLine("Press any key to continue.");
+            Console.ReadKey();
+        }

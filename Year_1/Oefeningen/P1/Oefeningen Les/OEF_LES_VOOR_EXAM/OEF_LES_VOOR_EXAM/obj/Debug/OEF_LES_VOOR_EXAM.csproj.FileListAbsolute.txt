@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\bin\Debug\OEF_LES_VOOR_EXAM.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\bin\Debug\OEF_LES_VOOR_EXAM.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\bin\Debug\OEF_LES_VOOR_EXAM.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\obj\Debug\OEF_LES_VOOR_EXAM.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\obj\Debug\OEF_LES_VOOR_EXAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\obj\Debug\OEF_LES_VOOR_EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\obj\Debug\OEF_LES_VOOR_EXAM.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_LES_VOOR_EXAM\OEF_LES_VOOR_EXAM\obj\Debug\OEF_LES_VOOR_EXAM.pdb

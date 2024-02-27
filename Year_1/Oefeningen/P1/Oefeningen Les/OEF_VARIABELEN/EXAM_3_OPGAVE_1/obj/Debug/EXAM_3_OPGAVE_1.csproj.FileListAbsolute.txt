@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\bin\Debug\EXAM_3_OPGAVE_1.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\bin\Debug\EXAM_3_OPGAVE_1.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\bin\Debug\EXAM_3_OPGAVE_1.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\obj\Debug\EXAM_3_OPGAVE_1.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\obj\Debug\EXAM_3_OPGAVE_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\obj\Debug\EXAM_3_OPGAVE_1.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\obj\Debug\EXAM_3_OPGAVE_1.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\OEF_VARIABELEN\EXAM_3_OPGAVE_1\obj\Debug\EXAM_3_OPGAVE_1.pdb

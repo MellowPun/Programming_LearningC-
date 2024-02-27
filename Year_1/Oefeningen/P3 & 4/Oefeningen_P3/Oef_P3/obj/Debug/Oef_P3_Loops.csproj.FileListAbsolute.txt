@@ -1,0 +1,8 @@
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\bin\Debug\Oef_P3.exe.config
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\bin\Debug\Oef_P3.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\bin\Debug\Oef_P3.pdb
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\obj\Debug\Oef_P3_Loops.csproj.AssemblyReference.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\obj\Debug\Oef_P3_Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\obj\Debug\Oef_P3_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\obj\Debug\Oef_P3.exe
+C:\Users\Achou\OneDrive\Documenten\KDG\Programming\Oefeningen\Oef_P3\Oef_P3\obj\Debug\Oef_P3.pdb
