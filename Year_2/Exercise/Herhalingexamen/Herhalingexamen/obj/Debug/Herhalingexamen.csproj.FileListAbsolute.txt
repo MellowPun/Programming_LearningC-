@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\bin\Debug\Herhalingexamen.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\bin\Debug\Herhalingexamen.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\bin\Debug\Herhalingexamen.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\obj\Debug\Herhalingexamen.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\obj\Debug\Herhalingexamen.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\obj\Debug\Herhalingexamen.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Herhalingexamen\Herhalingexamen\obj\Debug\Herhalingexamen.pdb

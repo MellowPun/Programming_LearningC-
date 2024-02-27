@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\bin\Debug\Struct_Exercise.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\bin\Debug\Struct_Exercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\bin\Debug\Struct_Exercise.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\obj\Debug\Struct_Exercise.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\obj\Debug\Struct_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\obj\Debug\Struct_Exercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Struct_Exercise\obj\Debug\Struct_Exercise.pdb

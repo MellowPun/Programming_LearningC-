@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\obj\Debug\ActioneerExercise.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\obj\Debug\ActioneerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\bin\Debug\ActioneerExercise.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\bin\Debug\ActioneerExercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\bin\Debug\ActioneerExercise.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\obj\Debug\ActioneerExercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\ActioneerExercise\obj\Debug\ActioneerExercise.pdb

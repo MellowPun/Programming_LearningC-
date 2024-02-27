@@ -1,0 +1,10 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\bin\Debug\Static.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\bin\Debug\Static.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\bin\Debug\Static.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\obj\Debug\Static.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\obj\Debug\Static.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\bin\Debug\DLL_Usage.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\bin\Debug\DLL_Usage.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Static\obj\Debug\Static.csproj.CopyComplete

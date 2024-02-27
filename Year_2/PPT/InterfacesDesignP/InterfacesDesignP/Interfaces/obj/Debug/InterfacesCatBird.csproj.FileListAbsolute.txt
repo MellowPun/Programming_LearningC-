@@ -1,0 +1,21 @@
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\obj\Debug\InterfacesCatBird.csprojAssemblyReference.cache
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+D:\GDrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\Interfaces\Interfaces\obj\Debug\InterfacesCatBird.csproj.CoreCompileInputs.cache
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.exe.config
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.exe
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.pdb
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\obj\Debug\InterfacesCatBird.csproj.AssemblyReference.cache
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\obj\Debug\InterfacesCatBird.csproj.CoreCompileInputs.cache
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\obj\Debug\Interfaces.exe
+D:\googledrive\Pieter\kdg\vakken\AdvancedProgramming\OpgelosteOef\InterfacesDesignP\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\obj\Debug\InterfacesCatBird.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\obj\Debug\InterfacesCatBird.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\PPT\InterfacesDesignP\InterfacesDesignP\Interfaces\obj\Debug\Interfaces.pdb

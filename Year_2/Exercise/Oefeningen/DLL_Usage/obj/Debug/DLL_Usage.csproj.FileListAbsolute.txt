@@ -1,0 +1,6 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\bin\Debug\DLL_Usage.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\bin\Debug\DLL_Usage.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\obj\Debug\DLL_Usage.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\obj\Debug\DLL_Usage.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\obj\Debug\DLL_Usage.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\DLL_Usage\obj\Debug\DLL_Usage.pdb

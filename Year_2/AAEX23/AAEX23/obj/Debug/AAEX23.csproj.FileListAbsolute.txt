@@ -1,0 +1,10 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\bin\Debug\AAEX23.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\bin\Debug\AAEX23.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\bin\Debug\AAEX23.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\obj\Debug\AAEX23.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\obj\Debug\AAEX23.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\obj\Debug\AAEX23.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\obj\Debug\AAEX23.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\bin\Debug\AAdll.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\bin\Debug\AAdll.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAEX23\obj\Debug\AAEX23.csproj.CopyComplete

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oh4bTMDJ1DE3FiWesgUOTdHu8W41tQ7Tsy01WDyls95ZLrEJxp7YrYzta3HPgKNQQQwdRz7Efy/TckbpM/gCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Achou\\Downloads\\15sterrenhemel\\15sterrenhemel\\15sterrenhemel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Achou\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Achou\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Achou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Achou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

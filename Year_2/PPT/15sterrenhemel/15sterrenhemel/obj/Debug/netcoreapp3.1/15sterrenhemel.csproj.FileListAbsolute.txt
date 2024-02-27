@@ -1,0 +1,13 @@
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/bin/Debug/netcoreapp3.1/15sterrenhemel.deps.json
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/bin/Debug/netcoreapp3.1/15sterrenhemel.runtimeconfig.json
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/bin/Debug/netcoreapp3.1/15sterrenhemel.runtimeconfig.dev.json
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/bin/Debug/netcoreapp3.1/15sterrenhemel.dll
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/bin/Debug/netcoreapp3.1/15sterrenhemel.pdb
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.csproj.AssemblyReference.cache
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.AssemblyInfoInputs.cache
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.AssemblyInfo.cs
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.csproj.CoreCompileInputs.cache
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.dll
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.pdb
+/Users/lunavandyck/Desktop/ADV.PROGRAMMING/overerving_02/15sterrenhemel/obj/Debug/netcoreapp3.1/15sterrenhemel.genruntimeconfig.cache

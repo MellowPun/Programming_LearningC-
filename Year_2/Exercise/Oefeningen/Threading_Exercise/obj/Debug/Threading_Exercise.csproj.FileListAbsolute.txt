@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\bin\Debug\Threading_Exercise.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\bin\Debug\Threading_Exercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\bin\Debug\Threading_Exercise.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\obj\Debug\Threading_Exercise.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\obj\Debug\Threading_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\obj\Debug\Threading_Exercise.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Threading_Exercise\obj\Debug\Threading_Exercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\bin\Debug\Inheritance_Overerving.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\bin\Debug\Inheritance_Overerving.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\bin\Debug\Inheritance_Overerving.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\obj\Debug\Inheritance_Overerving.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\obj\Debug\Inheritance_Overerving.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\obj\Debug\Inheritance_Overerving.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Inheritance_Overerving\obj\Debug\Inheritance_Overerving.pdb

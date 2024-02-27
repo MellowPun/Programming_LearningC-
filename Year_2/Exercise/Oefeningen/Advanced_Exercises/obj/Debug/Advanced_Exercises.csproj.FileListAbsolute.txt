@@ -1,0 +1,21 @@
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\bin\Debug\Advanced_Exercises.pdb
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\obj\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 1\Programming\Oefeningen\P3 & 4\Overriden_n_Inheritance\Advanced_Exercises\obj\Debug\Advanced_Exercises.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\bin\Debug\Advanced_Exercises.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Exercise\Oefeningen\Advanced_Exercises\obj\Debug\Advanced_Exercises.pdb

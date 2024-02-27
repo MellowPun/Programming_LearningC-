@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Learning\Learning\obj\Debug\Learning.pdb

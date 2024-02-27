@@ -1,0 +1,6 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\bin\Debug\AAdll.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\bin\Debug\AAdll.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\obj\Debug\AAdll.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\obj\Debug\AAdll.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\obj\Debug\AAdll.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\AAEX23\AAdll\obj\Debug\AAdll.pdb

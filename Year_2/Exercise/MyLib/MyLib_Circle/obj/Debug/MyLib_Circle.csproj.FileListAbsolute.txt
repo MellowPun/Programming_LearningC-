@@ -1,0 +1,6 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\bin\Debug\MyLib_Circle.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\bin\Debug\MyLib_Circle.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\obj\Debug\MyLib_Circle.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\obj\Debug\MyLib_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\obj\Debug\MyLib_Circle.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\MyLib\MyLib_Circle\obj\Debug\MyLib_Circle.pdb

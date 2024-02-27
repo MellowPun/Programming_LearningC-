@@ -1,0 +1,10 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\bin\Debug\DLL.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\bin\Debug\DLL.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\bin\Debug\DLL.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\bin\Debug\Opdracht_Assesmblies.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\bin\Debug\Opdracht_Assesmblies.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\obj\Debug\DLL.csproj.CopyComplete
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\obj\Debug\DLL.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DLL\obj\Debug\DLL.pdb

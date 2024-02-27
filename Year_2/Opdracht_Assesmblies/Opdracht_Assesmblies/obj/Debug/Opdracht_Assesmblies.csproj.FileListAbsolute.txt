@@ -1,0 +1,6 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\bin\Debug\Opdracht_Assesmblies.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\bin\Debug\Opdracht_Assesmblies.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\obj\Debug\Opdracht_Assesmblies.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\obj\Debug\Opdracht_Assesmblies.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\obj\Debug\Opdracht_Assesmblies.dll
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\Opdracht_Assesmblies\Opdracht_Assesmblies\obj\Debug\Opdracht_Assesmblies.pdb

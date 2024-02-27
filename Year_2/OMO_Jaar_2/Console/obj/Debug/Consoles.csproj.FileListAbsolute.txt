@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\bin\Debug\Console.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\bin\Debug\Console.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\bin\Debug\Console.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\obj\Debug\Consoles.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\obj\Debug\Consoles.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\obj\Debug\Console.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Console\obj\Debug\Console.pdb

@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\bin\Debug\Design_Patterns.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\bin\Debug\Design_Patterns.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\bin\Debug\Design_Patterns.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\obj\Debug\Design_Patterns.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\Design_Patterns\obj\Debug\Design_Patterns.pdb

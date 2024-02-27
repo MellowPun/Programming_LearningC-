@@ -1,0 +1,7 @@
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\obj\Debug\DataTypes_Observer.csproj.AssemblyReference.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\obj\Debug\DataTypes_Observer.csproj.CoreCompileInputs.cache
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\bin\Debug\DataTypes_Observer.exe.config
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\bin\Debug\DataTypes_Observer.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\bin\Debug\DataTypes_Observer.pdb
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\obj\Debug\DataTypes_Observer.exe
+C:\Users\Achou\Documents\KDG\Jaar 2\Programming\OMO_Jaar_2\DataTypes_Observer\obj\Debug\DataTypes_Observer.pdb
